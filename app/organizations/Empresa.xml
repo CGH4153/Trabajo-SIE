@@ -4,9 +4,78 @@
   <users>
     <user userName="reme">
       <firstName>Reme</firstName>
-      <lastName></lastName>
+      <lastName>Lara</lastName>
       <title>Sra</title>
       <jobTitle>Heladera</jobTitle>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="juan.carlos">
+      <firstName>Juan Carlos</firstName>
+      <lastName>Jim&#xe9;nez</lastName>
+      <title>Sr</title>
+      <jobTitle>Panadero</jobTitle>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jose.manuel">
+      <firstName>Jose Manuel</firstName>
+      <lastName>Jim&#xe9;nez</lastName>
+      <title>Sr</title>
+      <jobTitle></jobTitle>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="isabel">
+      <firstName>Isabel</firstName>
+      <lastName>Ordo&#xf1;ez</lastName>
+      <title>Sra</title>
+      <jobTitle></jobTitle>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jesus">
+      <firstName>Jes&#xfa;s</firstName>
+      <lastName>Jim&#xe9;nez</lastName>
+      <title>Sr</title>
+      <jobTitle></jobTitle>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="alberto">
+      <firstName>Alberto</firstName>
+      <lastName>Jim&#xe9;nez</lastName>
+      <title>Sr</title>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="david">
+      <firstName>David</firstName>
+      <lastName>Valle</lastName>
+      <title>Sr</title>
+      <jobTitle>Pastelero</jobTitle>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="antonio">
+      <firstName>Antonio</firstName>
+      <lastName>Carmona</lastName>
+      <title>Sr</title>
+      <jobTitle>Pastelero</jobTitle>
       <personalData/>
       <professionalData/>
       <password encrypted="false">bpm</password>
